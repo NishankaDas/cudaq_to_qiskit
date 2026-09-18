@@ -7,3 +7,14 @@ This library converts CUDA-Q quantum programs into Qiskit code.
 
 ```sh
 pip install git+https://github.com/yourusername/cudaq_to_qiskit.git
+
+
+```
+
+```bibtex
+@software{das2024cudaq_to_qiskit,
+  author       = {Das, Nishanka and Kola, Debanjan and Chakrabarti, Amlan},
+  title        = {{cudaq\_to\_qiskit}},
+  url          = {[https://github.com/NishankaDas/cudaq_to_qiskit](https://github.com/NishankaDas/cudaq_to_qiskit)},
+  year         = {2024}
+}
