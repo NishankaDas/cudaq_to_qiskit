@@ -16,5 +16,5 @@ pip install git+https://github.com/yourusername/cudaq_to_qiskit.git
   author       = {Das, Nishanka and Kola, Debanjan and Chakrabarti, Amlan},
   title        = {{cudaq\_to\_qiskit}},
   url          = {[https://github.com/NishankaDas/cudaq_to_qiskit](https://github.com/NishankaDas/cudaq_to_qiskit)},
-  year         = {2024}
+  year         = {2025}
 }
